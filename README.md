@@ -5,7 +5,7 @@ A user can navigate and see different streams; if authenticated through GoogleAu
 
 ## Demo
 
-![](https://media.giphy.com/media/t60kWX6RPRqucUPkGp/giphy.gif)
+![](https://media.giphy.com/media/DqZ4KK12WpD1sQw3kh/giphy.gif)
 
 ## Built with
 
